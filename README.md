@@ -14,11 +14,11 @@ The objective is to predict customer churn and identify the factors which can he
 
 # Conclusion
 Important variables have been identified for the customer churn prediction using the logistic regression model
-In terms of accuracy :
+- In terms of accuracy :
 XG Boosting has the best training and validation accuracy and a hight AUC value in the ROC curve and this will be used to submit for the Kaggle competition since accuracy is the most important
-In terms of overall model performance :
+- In terms of overall model performance :
 Random Forest performs the best since it has the has an appropriate tradeoff between precision and recall which is necessary metric other than accuracy which doesn't indicate the overall model performance.
-Dimensionality Reduction using PCA has been done and it helps in improved model performance
-Class Imbalance :
+- Dimensionality Reduction using PCA has been done and it helps in improved model performance
+- Class Imbalance :
 Class Imbalance has been identified as 90:10 (Non churn : Churn) and it has been considered while the training of the models, class weights concept is used for penalizing the non-churn customers during training
-Future Improvements : Hyperparameters can be tuned further to get the optimized model, however due to time and infrastructure constraints, it has been coarsely tuned for the results
+- Future Improvements : Hyperparameters can be tuned further to get the optimized model, however due to time and infrastructure constraints, it has been coarsely tuned for the results
