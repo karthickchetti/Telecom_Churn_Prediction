@@ -1,7 +1,7 @@
 # Telecom_Churn_Prediction
 The objective is to predict customer churn and identify the factors which can help the business focus on retaining customers
 
-#Notebook Steps
+# Notebook Steps
 1. Data Preparation and Preprocessing
 2. Baseline Logistic Regression
 3. Logistic Regression using Class Weights
@@ -12,7 +12,7 @@ The objective is to predict customer churn and identify the factors which can he
 8. Observations and Conclusions
 
 
-#Conclusion
+# Conclusion
 Important variables have been identified for the customer churn prediction using the logistic regression model
 In terms of accuracy :
 XG Boosting has the best training and validation accuracy and a hight AUC value in the ROC curve and this will be used to submit for the Kaggle competition since accuracy is the most important
