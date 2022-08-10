@@ -1,7 +1,7 @@
 # Telecom_Churn_Prediction
 The objective is to predict customer churn and identify the factors which can help the business focus on retaining customers
 
-# Notebook Steps
+# Project Pipeline
 1. Data Preparation and Preprocessing
 2. Baseline Logistic Regression
 3. Logistic Regression using Class Weights
